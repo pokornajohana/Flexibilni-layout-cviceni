@@ -39,6 +39,7 @@ Pro každou variantu si pomocí devtools udělejte screenshot.
 header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .galerie {
